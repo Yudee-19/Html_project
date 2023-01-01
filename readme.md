@@ -6,7 +6,7 @@ time is 12:30 a.m.
 
 # Html_project
 
-So, this is my first practice HTML file that I havr created.
+So, this is my first practice HTML file that I have created.
 I tried to use all the important tags to make this not so good looking wesite.
 Note: Not a single line of CSS was used while making this.
 Also this is my first github contribution. So a big round of applause for me..👏👏
